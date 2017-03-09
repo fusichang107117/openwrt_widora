@@ -6,10 +6,12 @@
 # See /LICENSE for more information.
 #
 
+
 TOPDIR:=${CURDIR}
 LC_ALL:=C
 LANG:=C
 export TOPDIR LC_ALL LANG
+
 
 empty:=
 space:= $(empty) $(empty)
